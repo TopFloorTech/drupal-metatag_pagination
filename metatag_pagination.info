@@ -1,0 +1,4 @@
+name = Metatag Pagination
+description = Provide rel="next" and rel="prev" metatags on paginated view pages.
+package = Top Floor
+core = 7.x
